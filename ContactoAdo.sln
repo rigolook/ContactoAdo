@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactoAdo", "ContactoAdo.csproj", "{BEEDE90F-5AF4-4178-8488-05F9DD499993}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEEDE90F-5AF4-4178-8488-05F9DD499993}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEEDE90F-5AF4-4178-8488-05F9DD499993}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEEDE90F-5AF4-4178-8488-05F9DD499993}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEEDE90F-5AF4-4178-8488-05F9DD499993}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDD18AE4-4B56-4F6A-A533-9BE202EEDBBB}
+	EndGlobalSection
+EndGlobal
